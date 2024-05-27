@@ -16,14 +16,22 @@ Welcome to my GitHub profile! I'm a passionate data analyst with expertise in SQ
 
 Here are some highlights of my projects:
 
-1. [Project Name](link_to_project) - Brief description of the project.
-   ![Project Image](link_to_image)
+1. [Income_Project]([link_to_project](https://github.com/VijayTakmoge/Income_project)) -Brief description of the project-Analysis of people's income as per what they do for a living. Trained (ML) models on categoricaldata. Nowadays parents are thinking a lot about their child's future. Achieved accurate prediction of people's income by their work. The system helps encourage parents to make good decisions future of their children.
+  
+3. [Medical_text_data_project](https://github.com/VijayTakmoge/Medical_text_data_project) -Brief description of the project -•The objective of this project was to develop a machine-learning model that could predictCancer and symptoms of cancer-based on various features.
+The project involved several steps, including data preprocessing, Exploratory data analysis,
+and feature engineering.
+Various machine learning algorithms such as Naive Bayes, RNN, LSTM, and Bidirectional LSTM,
+were implemented and evaluated using cross-validation.
+The final model achieved an accuracy of 95% on the test set and demonstrated its ability to
+predict the survival outcomes.
 
-2. [Project Name](link_to_project) - Brief description of the project.
-   ![Project Image](link_to_image)
-
-3. [Project Name](link_to_project) - Brief description of the project.
-   ![Project Image](link_to_image)
+6. [Mask and NO_mask](https://github.com/VijayTakmoge/Mask-and-No_mask) - Brief description of the project-Developed a real-time face emoji detection system using TensorFlow/Keras and OpenCV. Trained a
+convolutional neural network (CNN) model to classify faces as either Mask or No Mask. Achieved accurate
+detection of face emoji in live video streams from webcam inputs. Implemented a user-friendly interface
+to provide real-time feedback on Face status. The system helps promote Business strategy and safety
+measures by identifying individuals' feedback regarding face
+  
 
 ## 📝 Blog Articles
 I also enjoy sharing my insights and knowledge through blog articles. Here are some of my recent posts:
