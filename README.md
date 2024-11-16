@@ -26,11 +26,7 @@ were implemented and evaluated using cross-validation.
 The final model achieved an accuracy of 95% on the test set and demonstrated its ability to
 predict the survival outcomes.
 
-6. [Mask and NO_mask](https://github.com/VijayTakmoge/Mask-and-No_mask) - Brief description of the project-Developed a real-time face emoji detection system using TensorFlow/Keras and OpenCV. Trained a
-convolutional neural network (CNN) model to classify faces as either Mask or No Mask. Achieved accurate
-detection of face emoji in live video streams from webcam inputs. Implemented a user-friendly interface
-to provide real-time feedback on Face status. The system helps promote Business strategy and safety
-measures by identifying individuals' feedback regarding face
+6. [Bank loan prediction](https://github.com/VijayTakmoge/Bank_loan_prediction) -Brief description of the project This project leverages machine learning to predict loan approvals for banking customers. By implementing a Decision Tree model, the project aims to classify loan eligibility based on customer attributes like income, credit history, and employment status. This model assists financial institutions in making efficient and informed loan approval decisions
   
 
 ## 📝 Blog Articles
