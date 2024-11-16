@@ -27,6 +27,8 @@ The final model achieved an accuracy of 95% on the test set and demonstrated its
 predict the survival outcomes.
 
 6. [Bank loan prediction](https://github.com/VijayTakmoge/Bank_loan_prediction) -Brief description of the project This project leverages machine learning to predict loan approvals for banking customers. By implementing a Decision Tree model, the project aims to classify loan eligibility based on customer attributes like income, credit history, and employment status. This model assists financial institutions in making efficient and informed loan approval decisions
+
+7. [Hotel review text data](https://github.com/VijayTakmoge/Hotel-Review-text-data) Brief description of the project This project leverages NLP and Deep Learning to classify hotel reviews based on customer feedback. Using a dataset of review texts, it enables efficient sentiment analysis and category classification, providing actionable insights. The adaptable system evolves with feedback trends, ensuring scalability and relevance in the hospitality industry.
   
 
 ## 📝 Blog Articles
