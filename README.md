@@ -29,7 +29,9 @@ predict the survival outcomes.
 6. [Bank loan prediction](https://github.com/VijayTakmoge/Bank_loan_prediction) -Brief description of the project This project leverages machine learning to predict loan approvals for banking customers. By implementing a Decision Tree model, the project aims to classify loan eligibility based on customer attributes like income, credit history, and employment status. This model assists financial institutions in making efficient and informed loan approval decisions
 
 7. [Hotel review text data](https://github.com/VijayTakmoge/Hotel-Review-text-data) Brief description of the project This project leverages NLP and Deep Learning to classify hotel reviews based on customer feedback. Using a dataset of review texts, it enables efficient sentiment analysis and category classification, providing actionable insights. The adaptable system evolves with feedback trends, ensuring scalability and relevance in the hospitality industry.
-  
+
+8. [Employee Analysis](https://github.com/VijayTakmoge/Employee-Analysis-SQL-/tree/main) Brief description of the project Employee Analysis Project using SQL This project focuses on analyzing employee data to extract meaningful insights. Key tasks included identifying high-salary employees, analyzing department sizes, and managing data using SQL operations. The insights supported better workforce planning and organizational growth.
+
 
 ## 📝 Blog Articles
 I also enjoy sharing my insights and knowledge through blog articles. Here are some of my recent posts:
